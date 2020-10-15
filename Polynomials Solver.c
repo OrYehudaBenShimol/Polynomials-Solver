@@ -1,3 +1,4 @@
+/* This computer program was created by Or Yehuda Ben Shimol */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
